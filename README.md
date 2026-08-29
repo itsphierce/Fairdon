@@ -1,10 +1,10 @@
 👋 Hi, I'm Fairdon
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Solutions+Architect;Continuous+Learner;Continuous+Builder;Cloud+%7C+Software+%7C+Security+%7C+AI;Always+Learning.+Always+Working.+Always+Evolving." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0B1F3A&center=true&vCenter=true&width=750&lines=Solutions+Architect;Continuous+Learner;Continuous+Builder;Cloud+%7C+Software+%7C+Security+%7C+AI;Always+Learning.+Always+Working.+Always+Evolving." alt="Typing animation" />
 </p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Improve%20%E2%80%A2%20Repeat&fontSize=22&fontAlignY=35&animation=twinkling" alt="Animated header" />
-</p>Solutions Architect • Technology Enthusiast • Lifelong Learner • Continuous Builder
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20IMPROVE%20%E2%80%A2%20REPEAT&fontSize=22&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&color=0B1F3A" alt="Deep navy animated header" />
+</p>"Solutions Architect" • "Technology Enthusiast" • "Lifelong Learner" • "Continuous Builder"
 
 «Learn continuously. Work actively. Build thoughtfully. Evolve relentlessly.»
 
@@ -19,32 +19,32 @@ I don't believe technology should be approached as a fixed checklist of tools. T
 🔄 Non-Stop Learning & Building
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=500&center=true&vCenter=true&width=650&lines=LEARN+%E2%86%92+EXPLORE+%E2%86%92+BUILD;BUILD+%E2%86%92+TEST+%E2%86%92+IMPROVE;IMPROVE+%E2%86%92+APPLY+%E2%86%92+LEARN;REPEAT+%E2%86%92+REPEAT+%E2%86%92+REPEAT+%E2%86%92+%E2%88%9E" alt="Continuous learning animation" />
-</p>             ┌───────────────┐
-             │     LEARN     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    EXPLORE    │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     BUILD     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     TEST      │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    IMPROVE    │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     APPLY     │
-             └───────┬───────┘
-                     │
-                     └──────────────► LEARN
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=500&color=0B1F3A&center=true&vCenter=true&width=700&lines=LEARN+%E2%86%92+EXPLORE+%E2%86%92+BUILD;BUILD+%E2%86%92+TEST+%E2%86%92+IMPROVE;IMPROVE+%E2%86%92+APPLY+%E2%86%92+LEARN;REPEAT+%E2%86%92+REPEAT+%E2%86%92+REPEAT+%E2%86%92+%E2%88%9E" alt="Continuous learning animation" />
+</p>                         ┌───────────────┐
+                         │     LEARN     │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │    EXPLORE    │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │     BUILD     │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │     TEST      │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │    IMPROVE    │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │     APPLY     │
+                         └───────┬───────┘
+                                 │
+                                 └──────────────► LEARN
 
 ♾️ The cycle never stops.
 
@@ -76,7 +76,7 @@ These aren't simply subjects on a list — they are areas I'm actively studying,
 
 I'm particularly interested in understanding how complex systems are designed and how their individual components work together.
 
-Areas I'm actively exploring:
+Areas I'm actively exploring
 
 "System Design" • "Architecture" • "Scalability" • "Reliability" • "Availability" • "Performance" • "Security" • "Maintainability"
 
@@ -237,9 +237,9 @@ I'm especially interested in projects where multiple disciplines come together t
 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fairdon&show_icons=true&theme=transparent&hide_border=true" alt="Fairdon's GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fairdon&show_icons=true&theme=transparent&title_color=0B1F3A&text_color=334155&icon_color=1E5AA8&border_color=0B1F3A" alt="Fairdon's GitHub Statistics" />
 </p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fairdon&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fairdon&theme=transparent&ring=0B1F3A&fire=1E5AA8&currStreakLabel=0B1F3A&sideLabels=334155&dates=64748B&hide_border=true" alt="GitHub Contribution Streak" />
 </p>«GitHub is part of my workspace for learning, experimenting, building, documenting, and continuously improving.»
 
 ---
@@ -283,7 +283,9 @@ If you're learning, building, experimenting, or solving problems — let's conne
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=🏗️+Architect;💻+Engineer;☁️+Cloud;🔐+Security;🤖+AI;🎨+Design;♾️+Continuous+Learning+%26+Building" alt="Animated roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=0B1F3A&center=true&vCenter=true&width=650&lines=%F0%9F%8F%97%EF%B8%8F+Architect;%F0%9F%92%BB+Engineer;%E2%98%81%EF%B8%8F+Cloud;%F0%9F%94%90+Security;%F0%9F%A4%96+AI;%F0%9F%8E%A8+Design;%E2%99%BE%EF%B8%8F+Continuous+Learning+%26+Building" alt="Animated technology roles" />
 </p><p align="center">
   <b>⚡ Guiding Word: Beneficially.</b>
+</p><p align="center">
+  <sub>Always learning • Always working • Always evolving</sub>
 </p>
